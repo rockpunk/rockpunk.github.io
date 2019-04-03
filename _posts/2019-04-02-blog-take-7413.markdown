@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "blog - take 7,413"
+date:   2019-04-02 18:04:14 -0700
+categories: blog random
+---
+
+Ok, this probably isn't my 7,413th take at a blog - probably like 10th, but still!
+
+Basically, this is just an excuse to mess around with [jekyll](https://jekyll.org) and
+create a static page for some TBD side projects.
