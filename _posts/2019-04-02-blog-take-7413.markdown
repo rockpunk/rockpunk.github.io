@@ -6,5 +6,4 @@ categories: blog random
 ---
 
 Ok, this isn't really my 7,413th take at a blog - probably like 10th, but still! 
-Basically, this is just an excuse to mess around with [jekyll](https://jekyll.org) and
-create a static page for some TBD side projects.
+Basically, this was just an excuse to mess around with [jekyll](https://jekyll.org).
